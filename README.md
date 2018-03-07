@@ -4,6 +4,7 @@ Place a copy of this repo in ~/.vscode/extensions to enable pgsql color syntax h
 
 string_name = r''' --sql
 
+ -- Color highlighted SQL goes here
 
 '''
 
